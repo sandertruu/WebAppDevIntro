@@ -1,5 +1,3 @@
 # WebAppDevIntro
 1st practical lesson
-**bulleted
-**list
-**:P
+.p.p.p.p
